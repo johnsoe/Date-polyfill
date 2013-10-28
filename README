@@ -1,0 +1,6 @@
+The Date.toLocaleDateString polyfill is used to fill in unsupported behavior in Mozilla, Safari, and older browser versions
+
+For more information about how the toLocaleDateString function works, please visit 
+developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString
+
+If there are specific locales you are familiar with, please add them to the working locales. 
